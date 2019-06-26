@@ -1,4 +1,4 @@
-Diagnostics for language models
+Competency Grading For Language Models
 
 Project Description:
 
